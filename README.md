@@ -45,3 +45,18 @@ The dataset contains **1,156 Uber trip records** with **7 attributes** describin
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Development Environment:** Visual Studio Code (Jupyter Notebook)
+
+## 🧠 Python Concepts Used
+
+This project demonstrates the following Python concepts:
+
+- Data Loading
+- Data Cleaning
+- Missing Value Analysis
+- Duplicate Detection
+- Data Filtering
+- GroupBy Operations
+- Value Counts
+- Statistical Analysis
+- Data Visualization
+- Exploratory Data Analysis (EDA)
