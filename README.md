@@ -25,3 +25,17 @@ This project analyzes Uber trip data to answer business questions such as:
 - What are the most frequent trip purposes?
 - How are trip distances distributed?
 - What business insights can be derived from customer travel patterns?
+
+## 📂 Dataset
+
+The dataset contains **1,156 Uber trip records** with **7 attributes** describing customer travel behavior.
+
+| Column | Description |
+|--------|-------------|
+| START_DATE* | Trip start date and time |
+| END_DATE* | Trip end date and time |
+| CATEGORY* | Trip category (Business/Personal) |
+| START* | Pickup location |
+| STOP* | Drop-off location |
+| MILES* | Distance traveled (miles) |
+| PURPOSE* | Purpose of the trip |
