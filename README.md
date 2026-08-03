@@ -39,3 +39,9 @@ The dataset contains **1,156 Uber trip records** with **7 attributes** describin
 | STOP* | Drop-off location |
 | MILES* | Distance traveled (miles) |
 | PURPOSE* | Purpose of the trip |
+
+## 🛠️ Tools & Technologies
+
+- **Programming Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Development Environment:** Visual Studio Code (Jupyter Notebook)
