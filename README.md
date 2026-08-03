@@ -60,3 +60,14 @@ This project demonstrates the following Python concepts:
 - Statistical Analysis
 - Data Visualization
 - Exploratory Data Analysis (EDA)
+
+## 🔄 Project Workflow
+
+1. Import Required Libraries
+2. Load the Dataset
+3. Understand the Dataset
+4. Clean and Prepare the Data
+5. Perform Exploratory Data Analysis (EDA)
+6. Create Data Visualizations
+7. Generate Business Insights
+8. Draw Final Conclusions
