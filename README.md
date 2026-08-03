@@ -71,3 +71,18 @@ This project demonstrates the following Python concepts:
 6. Create Data Visualizations
 7. Generate Business Insights
 8. Draw Final Conclusions
+
+## ❓ Business Questions Answered
+
+This analysis answers the following business questions:
+
+1. Display the first and last 10 records.
+2. Understand the dataset structure.
+3. Check missing values and duplicate records.
+4. Identify trip categories.
+5. Determine the most frequent pickup and drop-off locations.
+6. Analyze trip purposes.
+7. Calculate trip distance statistics.
+8. Compare Business vs Personal trips.
+9. Visualize travel patterns using charts.
+10. Generate business insights from the data.
