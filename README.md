@@ -184,3 +184,11 @@ Uber_Mobility_Insights.ipynb
 - Build an interactive dashboard using Streamlit or Power BI.
 - Apply machine learning models for trip prediction.
 - Analyze seasonal and weekday travel patterns.
+
+## 👤 Author
+
+**Sai Shradha Mahapatra**
+
+Data Analyst
+
+**Skills:** Python • SQL • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn
