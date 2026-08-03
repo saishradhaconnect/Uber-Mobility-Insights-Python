@@ -7,3 +7,21 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 # 🚖 Uber Mobility Insights using Python
+
+## 📖 Project Overview
+
+Uber generates thousands of trips every day, producing valuable transportation data that can be analyzed to understand customer travel behavior and operational trends.
+
+This project analyzes **1,156 Uber trip records** using **Exploratory Data Analysis (EDA)** techniques with **Python, Pandas, NumPy, Matplotlib and Seaborn** to uncover travel patterns, trip purposes, frequently visited locations and business insights that support data-driven decision-making.
+
+## 🎯 Business Problem
+
+Understanding customer travel behavior is essential for improving transportation services and operational planning.
+
+This project analyzes Uber trip data to answer business questions such as:
+
+- Which trip category is most common?
+- Which locations generate the highest number of trips?
+- What are the most frequent trip purposes?
+- How are trip distances distributed?
+- What business insights can be derived from customer travel patterns?
