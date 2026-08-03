@@ -192,3 +192,7 @@ Uber_Mobility_Insights.ipynb
 Data Analyst
 
 **Skills:** Python • SQL • Power BI • Excel • Pandas • NumPy • Matplotlib • Seaborn
+
+## 📜 License
+
+This project is licensed under the MIT License.
