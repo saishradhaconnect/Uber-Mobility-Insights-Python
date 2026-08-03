@@ -177,3 +177,10 @@ Uber_Mobility_Insights.ipynb
 ```
 
 4. Run all cells to reproduce the analysis and visualizations.
+
+## 🔮 Future Improvements
+
+- Perform time-series analysis on trip demand.
+- Build an interactive dashboard using Streamlit or Power BI.
+- Apply machine learning models for trip prediction.
+- Analyze seasonal and weekday travel patterns.
