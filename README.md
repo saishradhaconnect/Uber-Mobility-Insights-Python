@@ -96,3 +96,20 @@ This analysis answers the following business questions:
 - Most Uber trips are short-distance journeys.
 - The trip distance distribution is highly right-skewed with a few long-distance outliers.
 - Business trips exhibit more extreme distance outliers than personal trips.
+
+## 📁 Repository Structure
+
+```
+Uber-Mobility-Insights-Python/
+│
+├── Uber_Mobility_Insights.ipynb
+├── uberdrive.csv
+├── Dataset_Preview.png
+├── Business_vs_Personal_Trips.png
+├── Top_10_Start_Locations.png
+├── Top_10_Stop_Locations.png
+├── Trip_Purpose_Distribution.png
+├── Trip_Distance_Histogram.png
+├── Trip_Distance_Boxplot.png
+└── README.md
+```
