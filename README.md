@@ -155,3 +155,25 @@ Uber-Mobility-Insights-Python/
 ### 📦 Trip Distance Comparison
 
 ![Trip Distance Boxplot](Trip_Distance_Boxplot.png)
+
+## 🚀 How to Run
+
+1. Clone this repository.
+
+```bash
+git clone https://github.com/saishradhaconnect/Uber-Mobility-Insights-Python.git
+```
+
+2. Install the required libraries.
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+3. Open the notebook.
+
+```text
+Uber_Mobility_Insights.ipynb
+```
+
+4. Run all cells to reproduce the analysis and visualizations.
