@@ -86,3 +86,13 @@ This analysis answers the following business questions:
 8. Compare Business vs Personal trips.
 9. Visualize travel patterns using charts.
 10. Generate business insights from the data.
+
+## 💡 Key Business Insights
+
+- Business trips account for the vast majority of Uber travel.
+- Cary is the busiest pickup location in the dataset.
+- Cary is also the most common drop-off location.
+- Meetings are the most frequent purpose of travel.
+- Most Uber trips are short-distance journeys.
+- The trip distance distribution is highly right-skewed with a few long-distance outliers.
+- Business trips exhibit more extreme distance outliers than personal trips.
