@@ -113,3 +113,45 @@ Uber-Mobility-Insights-Python/
 ├── Trip_Distance_Boxplot.png
 └── README.md
 ```
+
+## 📊 Project Visualizations
+
+### 📌 Dataset Preview
+
+![Dataset Preview](Dataset_Preview.png)
+
+---
+
+### 🚖 Business vs Personal Trips
+
+![Business vs Personal Trips](Business_vs_Personal_Trips.png)
+
+---
+
+### 📍 Top 10 Start Locations
+
+![Top 10 Start Locations](Top_10_Start_Locations.png)
+
+---
+
+### 📍 Top 10 Stop Locations
+
+![Top 10 Stop Locations](Top_10_Stop_Locations.png)
+
+---
+
+### 🎯 Trip Purpose Distribution
+
+![Trip Purpose Distribution](Trip_Purpose_Distribution.png)
+
+---
+
+### 📈 Trip Distance Distribution
+
+![Trip Distance Histogram](Trip_Distance_Histogram.png)
+
+---
+
+### 📦 Trip Distance Comparison
+
+![Trip Distance Boxplot](Trip_Distance_Boxplot.png)
